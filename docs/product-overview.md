@@ -1,3 +1,3 @@
 # Quản Lý Công Nợ
 
-Ứng dụng nội bộ đang được phát triển theo hướng MVP có kiểm chứng bằng test.
+Ứng dụng theo dõi phải thu, phải trả, thanh toán từng phần và cảnh báo quá hạn.
